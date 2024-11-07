@@ -47,7 +47,7 @@ The random forest classifier is an ensemble of multiple decision trees that work
 | Decision Tree       | 46.4%    |
 | Random Forest       | 53.9%    |
 
-### Result
+### Conclusion
 Based on these results, logistic regression was selected as the primary model due to its higher accuracy and straightforward interpretability. The results suggest that logistic regression effectively identifies students at risk of dropout, making it a practical choice for this dataset.
 
 ## Requirements
