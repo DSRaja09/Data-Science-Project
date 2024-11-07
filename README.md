@@ -1,21 +1,19 @@
-##Data Science Project - EDA 
-#Project Overview
-This project involves data analysis and predictive modeling using Python and Jupyter Notebook. The objective is to explore and preprocess the data, conduct exploratory data analysis (EDA), and develop machine learning models to make data-driven predictions.
+# Data Science Project - PDS Analysis
 
-#Project Structure
-Data Preprocessing: Data cleaning and handling missing values.
-Exploratory Data Analysis (EDA): Visualizations and insights on data distribution, trends, and relationships.
-Modeling: Implementation of machine learning algorithms to predict outcomes and evaluate model performance.
-Requirements
-Python 3.x
-Jupyter Notebook
-Libraries: pandas, numpy, matplotlib, seaborn, sklearn
-Usage
-#Clone the repository.
-Open ProjectPDS.ipynb in Jupyter Notebook.
-Run each cell sequentially to follow the analysis and model training steps.
-#Results
-This notebook provides insights into data patterns and evaluates model performance metrics to determine the best approach for predictive analysis.
+## Project Overview
+This project provides an in-depth analysis and predictive modeling on a dataset, aimed at exploring data relationships, preprocessing steps, and the development of machine learning models for prediction.
 
-#License
-This project is open-source and available under the MIT License.
+## Project Structure
+- **Data Preprocessing**: Cleaning, handling missing values, and preparing data.
+- **Exploratory Data Analysis (EDA)**: Visualizations for insights on data trends and relationships.
+- **Modeling**: Building and evaluating machine learning models to generate predictions.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- Required Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
+
+## Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/DSRaja09/Data-Science-Project.git
